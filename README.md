@@ -1,6 +1,4 @@
-# How to dockerize?
 
-A standard project repository contains directories like data/ (raw, processed, etc.), references/, docs/ (project documentation, etc.), reports/, notebooks/, apart from the ones shown here. One may follow Cookiecutter for this: https://cookiecutter-data-science.drivendata.org/
 
 <img width="231" alt="111" src="https://github.com/user-attachments/assets/96d8c4aa-1b7d-499b-953d-3d5523c254eb" />
 
