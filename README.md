@@ -4,9 +4,6 @@ To create the requirements file, run the following:
 
 >> pipenv run pip freeze > requirements.txt
 
-The project structure in the repo is important before you construct the dockerfile. If it looks like this:
-<img width="140" alt="11" src="https://github.com/user-attachments/assets/0da0f269-a204-41c5-9c80-c289d1cec837">
-
 Ensure you make your dockerfile while outside the app directory. A basic dockerfile looks like this:
 <img width="232" alt="22" src="https://github.com/user-attachments/assets/42f8a3f7-7dfd-40d9-ac37-edca36ff80fb">
 
