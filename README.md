@@ -5,12 +5,8 @@
 <img width="332" alt="222" src="https://github.com/user-attachments/assets/77faef2a-c8a7-40a8-bfd1-ad9c72f0a1a0" />
 
 
-Some standard templates by Cookiecutter: https://cookiecutter.readthedocs.io/en/stable/usage.html
-
 
 <img width="202" alt="0" src="https://github.com/user-attachments/assets/52e56065-16b7-48d7-b52b-92c3a4191beb">
-
-After you start Docker Desktop for the first time, make sure to click on preferences and select appropriate memory for Docker to run, otherwise it might throw issues with a ML/DL library you install in the future that ends up needing more memory. 
 
 To create the requirements file, run the following:
 
